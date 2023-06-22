@@ -1,4 +1,4 @@
-# Window-app-with-using-spotify-api-C-
+# Window-app-with-using-spotify-api-C#-
 It is a window application in C# that allows you to download data from the Spotify API.
 Data can be stored in XML or JSON formats or exported to a database. It is also possible to import from JSON, XML and database files to the application, or clear the current list of downloaded titles from the API. The application has also been added the ability to add songs to the "Listened list" along with their export to the database.
 
