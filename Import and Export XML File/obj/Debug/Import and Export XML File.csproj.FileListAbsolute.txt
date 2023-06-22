@@ -1,0 +1,36 @@
+C:\Users\marci\OneDrive\Pulpit\Import and Export XML File\Import and Export XML File\bin\Debug\Import and Export XML File.exe.config
+C:\Users\marci\OneDrive\Pulpit\Import and Export XML File\Import and Export XML File\bin\Debug\Import and Export XML File.exe
+C:\Users\marci\OneDrive\Pulpit\Import and Export XML File\Import and Export XML File\bin\Debug\Import and Export XML File.pdb
+C:\Users\marci\OneDrive\Pulpit\Import and Export XML File\Import and Export XML File\obj\Debug\Import and Export XML File.csproj.AssemblyReference.cache
+C:\Users\marci\OneDrive\Pulpit\Import and Export XML File\Import and Export XML File\obj\Debug\Import and Export XML File.csproj.SuggestedBindingRedirects.cache
+C:\Users\marci\OneDrive\Pulpit\Import and Export XML File\Import and Export XML File\obj\Debug\Import_and_Export_XML_File.Form1.resources
+C:\Users\marci\OneDrive\Pulpit\Import and Export XML File\Import and Export XML File\obj\Debug\Import_and_Export_XML_File.Properties.Resources.resources
+C:\Users\marci\OneDrive\Pulpit\Import and Export XML File\Import and Export XML File\obj\Debug\Import and Export XML File.csproj.GenerateResource.cache
+C:\Users\marci\OneDrive\Pulpit\Import and Export XML File\Import and Export XML File\obj\Debug\Import and Export XML File.csproj.CoreCompileInputs.cache
+C:\Users\marci\OneDrive\Pulpit\Import and Export XML File\Import and Export XML File\obj\Debug\Import and Export XML File.exe
+C:\Users\marci\OneDrive\Pulpit\Import and Export XML File\Import and Export XML File\obj\Debug\Import and Export XML File.pdb
+C:\Users\marci\OneDrive\Pulpit\Import and Export XML File\Import and Export XML File\bin\Debug\Newtonsoft.Json.dll
+C:\Users\marci\OneDrive\Pulpit\Import and Export XML File\Import and Export XML File\bin\Debug\Newtonsoft.Json.xml
+C:\Users\marci\OneDrive\Pulpit\Import and Export XML File\Import and Export XML File\obj\Debug\Import and Export XML File.csproj.CopyComplete
+C:\Users\marci\OneDrive\Pulpit\Import and Export XML File\Import and Export XML File\bin\Debug\Aspose.Cells.dll
+C:\Users\marci\OneDrive\Pulpit\Import and Export XML File\Import and Export XML File\bin\Debug\Json.Net.dll
+C:\Users\marci\OneDrive\Pulpit\Import and Export XML File\Import and Export XML File\bin\Debug\Aspose.Cells.xml
+C:\Studia\000semestr5\Integracja_sys_informatycznych\Projekt\Import-and-Edadxport-XML-File\Import and Export XML File\Import and Export XML File\bin\Debug\Import and Export XML File.exe.config
+C:\Studia\000semestr5\Integracja_sys_informatycznych\Projekt\Import-and-Edadxport-XML-File\Import and Export XML File\Import and Export XML File\bin\Debug\Import and Export XML File.exe
+C:\Studia\000semestr5\Integracja_sys_informatycznych\Projekt\Import-and-Edadxport-XML-File\Import and Export XML File\Import and Export XML File\bin\Debug\Import and Export XML File.pdb
+C:\Studia\000semestr5\Integracja_sys_informatycznych\Projekt\Import-and-Edadxport-XML-File\Import and Export XML File\Import and Export XML File\bin\Debug\Json.Net.dll
+C:\Studia\000semestr5\Integracja_sys_informatycznych\Projekt\Import-and-Edadxport-XML-File\Import and Export XML File\Import and Export XML File\bin\Debug\Newtonsoft.Json.dll
+C:\Studia\000semestr5\Integracja_sys_informatycznych\Projekt\Import-and-Edadxport-XML-File\Import and Export XML File\Import and Export XML File\bin\Debug\Newtonsoft.Json.xml
+C:\Studia\000semestr5\Integracja_sys_informatycznych\Projekt\Import-and-Edadxport-XML-File\Import and Export XML File\Import and Export XML File\obj\Debug\Import and Export XML File.csproj.AssemblyReference.cache
+C:\Studia\000semestr5\Integracja_sys_informatycznych\Projekt\Import-and-Edadxport-XML-File\Import and Export XML File\Import and Export XML File\obj\Debug\Import and Export XML File.csproj.SuggestedBindingRedirects.cache
+C:\Studia\000semestr5\Integracja_sys_informatycznych\Projekt\Import-and-Edadxport-XML-File\Import and Export XML File\Import and Export XML File\obj\Debug\Import_and_Export_XML_File.Form1.resources
+C:\Studia\000semestr5\Integracja_sys_informatycznych\Projekt\Import-and-Edadxport-XML-File\Import and Export XML File\Import and Export XML File\obj\Debug\Import_and_Export_XML_File.Properties.Resources.resources
+C:\Studia\000semestr5\Integracja_sys_informatycznych\Projekt\Import-and-Edadxport-XML-File\Import and Export XML File\Import and Export XML File\obj\Debug\Import and Export XML File.csproj.GenerateResource.cache
+C:\Studia\000semestr5\Integracja_sys_informatycznych\Projekt\Import-and-Edadxport-XML-File\Import and Export XML File\Import and Export XML File\obj\Debug\Import and Export XML File.csproj.CoreCompileInputs.cache
+C:\Studia\000semestr5\Integracja_sys_informatycznych\Projekt\Import-and-Edadxport-XML-File\Import and Export XML File\Import and Export XML File\obj\Debug\Import and Export XML File.csproj.CopyComplete
+C:\Studia\000semestr5\Integracja_sys_informatycznych\Projekt\Import-and-Edadxport-XML-File\Import and Export XML File\Import and Export XML File\obj\Debug\Import and Export XML File.exe
+C:\Studia\000semestr5\Integracja_sys_informatycznych\Projekt\Import-and-Edadxport-XML-File\Import and Export XML File\Import and Export XML File\obj\Debug\Import and Export XML File.pdb
+C:\Studia\000semestr5\Integracja_sys_informatycznych\Projekt\Import-and-Edadxport-XML-File\Import and Export XML File\Import and Export XML File\bin\Debug\SpotifyAPI.Web.dll
+C:\Studia\000semestr5\Integracja_sys_informatycznych\Projekt\Import-and-Edadxport-XML-File\Import and Export XML File\Import and Export XML File\bin\Debug\SpotifyAPI.Web.xml
+C:\Studia\000semestr5\Integracja_sys_informatycznych\Projekt\Import-and-Edadxport-XML-File\Import and Export XML File\Import and Export XML File\bin\Debug\MySql.Data.dll
+C:\Studia\000semestr5\Integracja_sys_informatycznych\Projekt\Import-and-Edadxport-XML-File\Import and Export XML File\Import and Export XML File\bin\Debug\MySql.Data.xml

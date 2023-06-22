@@ -1,0 +1,75 @@
+<?xml version="1.0" standalone="yes"?>
+<NewDataSet>
+  <Table1>
+    <title>Death Bed</title>
+    <artist>Powfu</artist>
+    <artwork>https://samplesongs.netlify.app/album-arts/death-bed.jpg</artwork>
+    <url>https://samplesongs.netlify.app/Death%20Bed.mp3</url>
+    <id>1</id>
+  </Table1>
+  <Table1>
+    <title>Bad Liar</title>
+    <artist>Imagine Dragons</artist>
+    <artwork>https://samplesongs.netlify.app/album-arts/bad-liar.jpg</artwork>
+    <url>https://samplesongs.netlify.app/Bad%20Liar.mp3</url>
+    <id>2</id>
+  </Table1>
+  <Table1>
+    <title>Faded</title>
+    <artist>Alan Walker</artist>
+    <artwork>https://samplesongs.netlify.app/album-arts/faded.jpg</artwork>
+    <url>https://samplesongs.netlify.app/Faded.mp3</url>
+    <id>3</id>
+  </Table1>
+  <Table1>
+    <title>Hate Me</title>
+    <artist>Ellie Goulding</artist>
+    <artwork>https://samplesongs.netlify.app/album-arts/hate-me.jpg</artwork>
+    <url>https://samplesongs.netlify.app/Hate%20Me.mp3</url>
+    <id>4</id>
+  </Table1>
+  <Table1>
+    <title>Solo</title>
+    <artist>Clean Bandit</artist>
+    <artwork>https://samplesongs.netlify.app/album-arts/solo.jpg</artwork>
+    <url>https://samplesongs.netlify.app/Solo.mp3</url>
+    <id>5</id>
+  </Table1>
+  <Table1>
+    <title>Without Me</title>
+    <artist>Halsey</artist>
+    <artwork>https://samplesongs.netlify.app/album-arts/without-me.jpg</artwork>
+    <url>https://samplesongs.netlify.app/Without%20Me.mp3</url>
+    <id>6</id>
+  </Table1>
+  <Table2>
+    <title>Bad Liar</title>
+    <Artist>Imagine Dragons</Artist>
+    <Artwork>https://samplesongs.netlify.app/album-arts/bad-liar.jpg</Artwork>
+    <url>https://samplesongs.netlify.app/Bad%20Liar.mp3</url>
+  </Table2>
+  <Table2>
+    <title>Faded</title>
+    <Artist>Alan Walker</Artist>
+    <Artwork>https://samplesongs.netlify.app/album-arts/faded.jpg</Artwork>
+    <url>https://samplesongs.netlify.app/Faded.mp3</url>
+  </Table2>
+  <Table2>
+    <title>Hate Me</title>
+    <Artist>Ellie Goulding</Artist>
+    <Artwork>https://samplesongs.netlify.app/album-arts/hate-me.jpg</Artwork>
+    <url>https://samplesongs.netlify.app/Hate%20Me.mp3</url>
+  </Table2>
+  <Table2>
+    <title>Solo</title>
+    <Artist>Clean Bandit</Artist>
+    <Artwork>https://samplesongs.netlify.app/album-arts/solo.jpg</Artwork>
+    <url>https://samplesongs.netlify.app/Solo.mp3</url>
+  </Table2>
+  <Table2>
+    <title>Without Me</title>
+    <Artist>Halsey</Artist>
+    <Artwork>https://samplesongs.netlify.app/album-arts/without-me.jpg</Artwork>
+    <url>https://samplesongs.netlify.app/Without%20Me.mp3</url>
+  </Table2>
+</NewDataSet>
